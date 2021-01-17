@@ -11,3 +11,4 @@ client.on('ready', () => {
 })
 
 client.login(config.token)
+client.login("ODAwMDI2MzMxNDQ1NzIzMTY2.YAMIlQ.-cw9axTcgsNVBcidV-eElM8A4UQ");
